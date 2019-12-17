@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00366cam a2200121 a 4500</leader>
+    <controlfield tag="001">AUTH400570000000001</controlfield>
+    <controlfield tag="005">20160128112119.0</controlfield>
+    <controlfield tag="008">160128| ||| |                ||| |      </controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">AUTH-00000040058</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">Perpustakaan Nasional</subfield>
+    </datafield>
+    <datafield tag="410" ind1="2" ind2="#">
+      <subfield code="a">Perpustakaan Nasional Republik Indonesia</subfield>
+    </datafield>
+    <datafield tag="410" ind1="2" ind2="#">
+      <subfield code="a">Perpustakaan Nasional RI</subfield>
+    </datafield>
+    <datafield tag="410" ind1="1" ind2="#">
+      <subfield code="a">Indonesia.</subfield>
+      <subfield code="b">Perpustakaan Nasional</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00873cam a2200241 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739569</controlfield>
+    <controlfield tag="005">20101203131213.13</controlfield>
+    <controlfield tag="008">031210|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226310060</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">03-12-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Administrasi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="360" ind1="#" ind2="#">
+      <subfield code="i">Subdivisi "Administrasi" di bawah jenis perpustakaan, misal,</subfield>
+      <subfield code="a">Perpustakaan anak -- Administrasi</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Administrasi</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Manajemen</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Manajemen perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Manajemen</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Komunikasi dalam administrasi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Merger</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Reorganisasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Pertemuan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Pedoman staf</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00517ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00650cam a2200181 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000733498</controlfield>
+    <controlfield tag="005">20090424140445.45</controlfield>
+    <controlfield tag="008">240409n||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225917360</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">022.3 ; 727.8</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Arsitektur perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Bangunan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan, Arsitektur</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Gedung perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Arsitektur</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">[Gunakan subdivisi geografis]</subfield>
+    </datafield>
+    <datafield tag="670" ind1="#" ind2="#">
+      <subfield code="a">LIbrary architecture 1800-1875 a comparison of theory and buildings with emphasis on new England college libraries / 1961</subfield>
+      <subfield code="b">by John Jorg Boll</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00375ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00813cam a2200241 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739364</controlfield>
+    <controlfield tag="005">20101021091031.31</controlfield>
+    <controlfield tag="008">211010|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226290360</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Bahan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="360" ind1="#" ind2="#">
+      <subfield code="a">Lihat juga tajuk "Perpustakaan -- Koleksi khusus" dapat dibagi lebih lanjut berdasarkan topik misal, "Perpustakaan -- Koleksi khusus -- Pita video</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Bahan pustaka</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Materi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Buku</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Berkas vertikal</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Kliping (Buku, Surat kabar, dsb.)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Terbitan pemerintah</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Bahan sejarah</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Bahan nonbuku</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Seri (Terbitan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Majalah</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00502ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00320cam a2200121 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000721892</controlfield>
+    <controlfield tag="005">20080222080255.55</controlfield>
+    <controlfield tag="008">220208|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-224792260</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">727.8</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Gedung perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Arsitektur perpustakaan</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00080ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00430cam a2200145 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000722917</controlfield>
+    <controlfield tag="005">20080319160336.36</controlfield>
+    <controlfield tag="008">190308|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-224893760</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">025.5</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Hubungan masyarakat</subfield>
+      <subfield code="x">Perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Hubungan masyarakat</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan dan masyarakat</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Hubungan masyarakat</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00172ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01028cam a2200289 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739374</controlfield>
+    <controlfield tag="005">20101021101017.17</controlfield>
+    <controlfield tag="008">211010|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226291360</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Ilmu perpustakaan</subfield>
+    </datafield>
+    <datafield tag="360" ind1="#" ind2="#">
+      <subfield code="a">Tajuk yang diakhiri dengan kata "Perpustakaan". Misal "Organisasi perpustakaan"; "Kerjasama perpustakaan";</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Organisasi</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Kepustakawanan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Kepustakawanan internasional</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Pengolahan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Reklasifikasi (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Akses terbuka dan tertutup</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Dokumentasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Kepustakawanan bandingan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Ilmu informasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Klasifikasi</subfield>
+      <subfield code="x">Buku</subfield>
+      <subfield code="x">Ilmu perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Bibliografi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Rekatalogisasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Komunikasi dalam perpustakaan</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00628ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00422cam a2200145 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000721628</controlfield>
+    <controlfield tag="005">20080213130239.39</controlfield>
+    <controlfield tag="008">130208d||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-224766260</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">021.6</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Jaringan informasi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan, Jaringan informasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Perpustakaan, Jaringan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Jaringan informasi</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00164ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00877cam a2200229 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739376</controlfield>
+    <controlfield tag="005">20101021101050.50</controlfield>
+    <controlfield tag="008">211010|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226291560</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Kajian penggunaan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan digital</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Kartu katalog</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Layanan informasi</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Statistika perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog perpustakaan</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan nasional</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Penelitian perpustakaan</subfield>
+      <subfield code="x">Kajian penggunaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Analisis sirkulasi</subfield>
+    </datafield>
+    <datafield tag="680" ind1="#" ind2="#">
+      <subfield code="i">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00532ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01164cam a2200361 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000723467</controlfield>
+    <controlfield tag="005">20080417100444.44</controlfield>
+    <controlfield tag="008">170408|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-224946660</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">017.019</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Katalog perpustakaan</subfield>
+    </datafield>
+    <datafield tag="360" ind1="#" ind2="#">
+      <subfield code="i">Tajuk untuk jenis dan bentuk katalog tertentu, misal. Katalog bentuk buku ; Katalog bentuk kartu ; Katalog subjek</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Katalog</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Alat temu kembali</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog terpasang</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Klasifikasi buku</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Pengolahan buku (perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog buku</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Katalogisasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog pengarang</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog kartu</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog subjek</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog berkas</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog terbagi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog kamus</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Buku</subfield>
+      <subfield code="x">Klasifikasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Terbitan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Katalog</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog berkelas</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog induk</subfield>
+    </datafield>
+    <datafield tag="680" ind1="#" ind2="#">
+      <subfield code="i">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00714ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00426cam a2200145 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000733073</controlfield>
+    <controlfield tag="005">20090320140312.12</controlfield>
+    <controlfield tag="008">200309|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225875160</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">021.6 ; 025.62</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Kerjasama antarperpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">kerjasama</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Administrasi umum</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalog induk</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00168ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00405cam a2200133 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739593</controlfield>
+    <controlfield tag="005">20101215211257.57</controlfield>
+    <controlfield tag="008">151210|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226312460</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">15-12-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Komunikasi dalam administrasi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Administrasi perpustakaan</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00148ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00351cam a2200121 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000734245</controlfield>
+    <controlfield tag="005">20090520090512.12</controlfield>
+    <controlfield tag="008">200509|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225991360</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">025.524</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Otomasi dalam perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Sisten penyimpanan dan temu kembali informasi</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00111ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00521cam a2200181 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739371</controlfield>
+    <controlfield tag="005">20101021101032.32</controlfield>
+    <controlfield tag="008">211010|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226291060</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Pegawai perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Staf perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Karyawan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Tenaga teknis perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Pustakawan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Pegawai</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00220ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00622cam a2200181 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000731106</controlfield>
+    <controlfield tag="005">20081202131210.10</controlfield>
+    <controlfield tag="008">021208n||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225685060</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">020.7</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="4">
+      <subfield code="a">Pendidikan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan, Pendidikan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Pendidikan profesional</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Pustakawan</subfield>
+      <subfield code="x">Penataran</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Sekolah perpustakaan</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">[Gunakan subdivisi geografis]</subfield>
+    </datafield>
+    <datafield tag="670" ind1="#" ind2="#">
+      <subfield code="a">Annual report 1985-1986 : b The Polytechnic of North London, School of Librarianship and Information Studies 1986</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00154ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00570cam a2200145 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000731107</controlfield>
+    <controlfield tag="005">20081202131216.16</controlfield>
+    <controlfield tag="008">021208n||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225685160</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">020.7 ; 375</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="4">
+      <subfield code="a">Pendidikan perpustakaan</subfield>
+      <subfield code="x">Kurikulum</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Kurikulum, Perpustakaan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Pendidikan</subfield>
+      <subfield code="x">Kurikulum</subfield>
+    </datafield>
+    <datafield tag="670" ind1="#" ind2="#">
+      <subfield code="a">Hasil lokakarya pengembangan kurikulum pendidikan dan pelatihan perpustakaan di Indonesia 9-11 Agustus 1994 / 1994</subfield>
+      <subfield code="b">editor H. Hendrarta Kusbandarrumsamsi ... [et al.]</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00222ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00523cam a2200169 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000739373</controlfield>
+    <controlfield tag="005">20101021101056.56</controlfield>
+    <controlfield tag="008">211010|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-226291260</subfield>
+    </datafield>
+    <datafield tag="039" ind1="#" ind2="#">
+      <subfield code="a">21-10-2010</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Penelitian perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Ketrampilan perpustakaan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Penelitian perpustakaan</subfield>
+      <subfield code="x">Metodologi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Temu kembali informasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Bibliografi</subfield>
+      <subfield code="x">Metodologi</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">Dapat ditambahkan subdivisi geografis</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00233ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00672cam a2200205 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000731770</controlfield>
+    <controlfield tag="005">20081218101209.09</controlfield>
+    <controlfield tag="008">181208d||||||||aaa|   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225749660</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">025.2</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Pengembangan koleksi (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Akuisisi (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Koleksi perpustakaan</subfield>
+      <subfield code="x">Pengembangan</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Pengadaan (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Bagian pemasaran</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Administrasi umum</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Penyiangan koleksi (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Buku</subfield>
+      <subfield code="x">Pemilihan</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Pengolahan buku (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00369ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00396cam a2200145 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000732767</controlfield>
+    <controlfield tag="005">20090305110343.43</controlfield>
+    <controlfield tag="008">050309|||||||||   |   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225845560</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">025.32</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Pengolahan buku (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Katalogisasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Buku</subfield>
+      <subfield code="x">Klasifikasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Katalog perpustakaan</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00138ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00769cam a2200241 a 4500</leader>
+    <controlfield tag="001">AUTHO000000000731851</controlfield>
+    <controlfield tag="005">20081219121217.17</controlfield>
+    <controlfield tag="008">191208d||||||||aaa|   |||   |||| ||   ||</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">0010-225757160</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="#">
+      <subfield code="a">025</subfield>
+    </datafield>
+    <datafield tag="150" ind1="#" ind2="#">
+      <subfield code="a">Pengolahan teknis (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Pelayanan teknis</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Pusat pengolahan (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Pengolahan (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="450" ind1="#" ind2="#">
+      <subfield code="a">Pelayanan teknis (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Pengadaan (Perpustakaan)</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Perpustakaan</subfield>
+      <subfield code="x">Administrasi umum</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">g</subfield>
+      <subfield code="a">Perpustakaan, Ilmu</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Katalogisasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="w">h</subfield>
+      <subfield code="a">Buku</subfield>
+      <subfield code="x">Klasifikasi</subfield>
+    </datafield>
+    <datafield tag="550" ind1="#" ind2="#">
+      <subfield code="a">Tajuk subyek</subfield>
+    </datafield>
+    <datafield tag="667" ind1="#" ind2="#">
+      <subfield code="a">[Gunakan subdivisi geografis]</subfield>
+    </datafield>
+    <datafield tag="900" ind1="#" ind2="#">
+      <subfield code="a">00439ac##a2200012n##4500</subfield>
+    </datafield>
+  </record>
+</collection>
